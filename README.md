@@ -2,8 +2,11 @@
  ⭐ BabyDaviddAGI ⭐
 
 </h1>
+
+A huge thanks @uysalibov how is a coding genius!!
+
 <p align="center">
-<img src="https://davidd.tech/wp-content/uploads/2022/03/moi-1024x1024.png" width=250 height=250>
+<img src="https://davidd.tech/wp-content/uploads/2023/04/BABYDavidd.png" width=250 height=250>
 </p>
 
 Inspired from [@babyagi](https://github.com/yoheinakajima/babyagi).
