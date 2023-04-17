@@ -6,7 +6,7 @@
 A huge thanks @uysalibov how is a coding genius!!
 
 <p align="center">
-<img src="https://davidd.tech/wp-content/uploads/2023/04/BABYDavidd.png" width=250 height=250>
+<img src="https://davidd.tech/wp-content/uploads/2023/04/BABYDavidd.png">
 </p>
 
 Inspired from [@babyagi](https://github.com/yoheinakajima/babyagi).
