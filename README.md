@@ -167,4 +167,4 @@ Trade Count 4
 ```
 
 
-Made with love by [@uysalibov](https://github.com/uysalibov) for [@DaviddTech](https://www.youtube.com/@DaviddTech).
+Made with love by [@uysalibov](https://github.com/uysalibov) & [@DaviddTech](https://www.youtube.com/@DaviddTech).
