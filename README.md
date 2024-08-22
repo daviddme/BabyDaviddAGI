@@ -1,7 +1,8 @@
 <h1 align="center">⭐ BabyDaviddAGI ⭐</h1>
-[AI Trading Bots](https://daviddtech.com)
-A huge thanks @uysalibov how is a coding genius!!
 
+A huge thanks @uysalibov how is a coding genius!!
+[AI Trading Bots](https://daviddtech.com)
+[Free TradingView indicators](https://daviddtech.com/indicators)
 <p align="center">
 <img src="https://davidd.tech/wp-content/uploads/2023/04/BABYDavidd.png">
 </p>
