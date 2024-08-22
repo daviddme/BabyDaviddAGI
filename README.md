@@ -1,7 +1,4 @@
-<h1 align="center">
- ⭐ BabyDaviddAGI ⭐
-
-</h1>
+<h1 align="center">⭐ BabyDaviddAGI ⭐</h1>
 [AI Trading Bots](https://daviddtech.com)
 A huge thanks @uysalibov how is a coding genius!!
 
